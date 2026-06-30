@@ -6,7 +6,7 @@
 
 **Microsoft Build 2026 | Hands-on Lab**
 
-Welcome to the **GitHub Copilot Advanced** hands-on workshop! This lab is part of the [Microsoft Build 2026](https://msevents.microsoft.com/event?id=958083520) event and focuses on advanced techniques for leveraging GitHub Copilot in real-world development workflows.
+Welcome to the **GitHub Copilot Advanced** hands-on workshop! This lab is part of the [Microsoft Build 2026 in Munich](https://msevents.microsoft.com/event?id=958083520) event and focuses on advanced techniques for leveraging GitHub Copilot in real-world development workflows.
 
 ---
 
@@ -59,7 +59,7 @@ By the end of this workshop, you will be able to:
 
 ## 🤝 Support
 
-If you have questions during the workshop, raise your hand or reach out to the proctors in the room.
+If you have questions during the workshop, raise your hand or reach out to Julia and the proctors in the room.
 
 For issues with the workshop content, please open an issue in the [workshop repository](https://github.com/hackathon-green-bee-7/ghcp-advanced/issues).
 
