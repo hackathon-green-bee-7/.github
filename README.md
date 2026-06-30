@@ -39,7 +39,7 @@ Before starting the workshop, please ensure you have the following:
 
 | Requirement | Details |
 |---|---|
-| **GitHub Account** | With Copilot access (Free, Pro, Business, or Enterprise) |
+| **GitHub Account** | With Copilot access – **scan the QR code provided on-site** to get GitHub Copilot Enterprise access for the duration of this workshop |
 | **VS Code** | With GitHub Copilot + Copilot Chat extensions installed |
 | **Node.js** | Version 20 or later |
 | **GitHub CLI** | `gh` CLI with the `gh copilot` extension |
